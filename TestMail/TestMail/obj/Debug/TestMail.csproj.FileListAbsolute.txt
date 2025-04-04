@@ -1,0 +1,7 @@
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\bin\Debug\TestMail.exe.config
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\bin\Debug\TestMail.exe
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\bin\Debug\TestMail.pdb
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\obj\Debug\TestMail.csproj.AssemblyReference.cache
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\obj\Debug\TestMail.csproj.CoreCompileInputs.cache
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\obj\Debug\TestMail.exe
+C:\Users\LudwigNassen\Desktop\TestMail\TestMail\obj\Debug\TestMail.pdb
